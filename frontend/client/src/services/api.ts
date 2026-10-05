@@ -1,4 +1,3 @@
-```typescript
 /**
  * Servicio de API
  * Proporciona datos mock para desarrollo.
@@ -280,4 +279,3 @@ export async function exportInventarioPDF(
 
   return response.blob();
 }
-```
